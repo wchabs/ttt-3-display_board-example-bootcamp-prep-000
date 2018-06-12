@@ -5,5 +5,8 @@ def display_board
   
   puts row_input
   puts row_separate
+  puts row_input
+  puts row_separate
+  puts row_input
   
 end
